@@ -41,8 +41,7 @@ This project analyzes Steam game data to uncover insights about player behavior,
 ---
 
 ## 📁 Files Included
-- `steam_analysis.ipynb` → Data cleaning and analysis
-- `steam_cleaned.csv` → Clean dataset
+- `steam_small.csv` → Clean dataset
 - `images/` → Visualizations
 
 ---
