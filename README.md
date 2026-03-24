@@ -36,7 +36,6 @@ This project analyzes Steam game data to uncover insights about player behavior,
 - Some genres show perfect ratings due to low sample sizes
 - A small number of games dominate total playtime
 - Data cleaning was required to handle missing values and formatting issues
-- Encoding issues in game titles were identified and handled
 
 ---
 
@@ -48,7 +47,7 @@ This project analyzes Steam game data to uncover insights about player behavior,
 ---
 
 ## 🚀 Future Improvements
-- Add more datasets
+- Add more visualizations
 - Build an interactive dashboard
 
 ---
