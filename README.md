@@ -1,8 +1,6 @@
 # 📊 Steam Games Data Analysis
 Steam Games Data Analysis using Python (Pandas &amp; Seaborn)
 
-# 📊 Steam Games Data Analysis
-
 This project analyzes Steam game data to uncover insights about player behavior, genre popularity, and player engagement.
 
 ---
