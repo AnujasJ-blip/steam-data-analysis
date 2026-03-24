@@ -53,5 +53,10 @@ This project analyzes Steam game data to uncover insights about player behavior,
 
 ---
 
+## 📦 Dataset
+- Reduced dataset used in this project (`steam_small.csv`)
+- Original dataset available on Kaggle:
+  https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
+
 ## 📌 Author
 Anuja
