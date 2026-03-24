@@ -47,10 +47,9 @@ This project analyzes Steam game data to uncover insights about player behavior,
 
 ---
 
-## 🚀 How to Run
-1. Open the notebook in Jupyter Notebook or Google Colab
-2. Run all cells
-3. View the generated charts
+## 🚀 Future Improvements
+- Add more datasets
+- Build an interactive dashboard
 
 ---
 
@@ -58,6 +57,13 @@ This project analyzes Steam game data to uncover insights about player behavior,
 - Reduced dataset used in this project (`steam_small.csv`)
 - Original dataset available on Kaggle:
   https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
+
+---
+
+# 🚀 How to Run
+1. Open the notebook in Jupyter Notebook or Google Colab
+2. Run all cells
+3. View the generated charts
 
 ## 📌 Author
 Anuja
